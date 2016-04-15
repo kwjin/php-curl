@@ -3,7 +3,6 @@
 <h3>How To Use</h3>
 ===================
 <p>
-// 2016-04-15 by kwj
 $curl_obj = new Class_Curl(); // Construct.
 <br>
 $curl_obj->url="_URL_"; // Target Url
